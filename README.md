@@ -16,3 +16,9 @@ Validate data-quality
 Develop business-focused KPSs and analytical insights
 Analyse sales, purchasing, Inventory, supplier, customer performance
 Build an interactive powerBI Dashboard
+
+## Weekly Progress
+# Week 01 - Data foundation nd understanding
+
+Status: Completed
+Week 01 focused on establishing the data foundation for the project. 
