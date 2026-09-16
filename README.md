@@ -17,7 +17,10 @@ Analyse sales, purchasing, Inventory, supplier, customer performance
 Build an interactive powerBI Dashboard
 
 # Weekly Progress
-## Week 01 - Data foundation nd understanding
+## Week 01 - Data foundation and understanding
 
-Status: Completed
-Week 01 focused on establishing the data foundation for the project. 
+### Status: completed
+#####Week 01 -focused on establishing the foundation through data cleaning, data profiling and integration for the project.
+
+###Findings
+#### No duplicates and Selected the appropriate data type for each columns of all the datasets. 
