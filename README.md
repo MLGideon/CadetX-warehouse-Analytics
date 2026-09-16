@@ -19,8 +19,8 @@ Build an interactive powerBI Dashboard
 # Weekly Progress
 ## Week 01 - Data foundation and understanding
 
-### Status: completed
-#####Week 01 -focused on establishing the foundation through data cleaning, data profiling and integration for the project.
+### Status: Completed
+##### Week 01 -focused on establishing the foundation through data cleaning, data profiling and integration for the project.
 
-###Findings
+### Findings
 #### No duplicates and Selected the appropriate data type for each columns of all the datasets. 
